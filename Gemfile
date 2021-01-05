@@ -37,4 +37,3 @@ gem 'spring', '>= 2.0.2', group: :development
 
 # Use debugger
 # gem 'debugger', group: [:development, :test]
-
